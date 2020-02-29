@@ -48,7 +48,7 @@ on CD_to(theDir)
 	end tell
 end CD_to
 ```
-4. Replace <\yourHostUrl\> in script
+4. Replace \<yourHostUrl\> in script
 5. Save as 'NuPut.app' somewhere out of the way
 6. Drag and drop the 'NuPut.app' onto the Finder toolbar while holding down the Option and Command keys to place the launch icon on Finder
 7. To prevent two windows from opening when you click the launch icon when iTerm2 is not already running, set iTerm2 -> Preferences -> Startup to "Don't Open Any Windows"
